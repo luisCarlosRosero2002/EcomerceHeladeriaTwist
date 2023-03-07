@@ -36,6 +36,11 @@ nav li {
     display: inline;
 }
 
+.active-link{
+    background-color: #419282;
+    border-radius: 25px;
+}
+
 
 nav>ul>li>a {
     padding: 10px 20px;
